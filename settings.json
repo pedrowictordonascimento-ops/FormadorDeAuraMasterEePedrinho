@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SMP_Krynx.aternos.me",
-    "port": 19652,
-    "version": "",
+    "ip": "SMP_KrynxBILD.aternos.me",
+    "port": 49820,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
